@@ -1,7 +1,7 @@
 # Hi universe 👋
 
-Champions League: I can say I won to Messi <br />
-Europa League is amazing too: Minute 90 Thank you Lovren (Liverpool-Dortmund) <br />
+<b> Champions League: </b> I can say I won to Messi <br />
+<b> Europa League: </b> Minute 90 Thank you Lovren (Liverpool-Dortmund) <br />
 You can write me: nsoriano257@hotmail.com
 
 <!--
