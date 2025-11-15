@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi universe 👋
+I wasn't sure to write my out of programming skills here 😅<br />
+But I can say I have good memories about football and maths. <br />
+For any question you can write me: nsoriano257@hotmail.com
 <!--
 **XSaintX/XSaintX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
