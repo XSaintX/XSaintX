@@ -1,5 +1,5 @@
 ## Hi universe 👋
-I wasn't sure to write my out of programming skills here 😅<br />
+I wasn't sure of writing my out of programming skills here 😅<br />
 But I can say I have good memories about football and maths. <br />
 For any question you can write me: nsoriano257@hotmail.com
 <!--
