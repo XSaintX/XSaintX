@@ -1,7 +1,7 @@
 ## Hi universe 👋
 I wasn't sure of writing my out of programming skills here 😅<br />
 But I can say I have good memories about football and maths. Many. <br />
-Good to speak in code. <br />
+This is Github. Good to speak in code. <br />
 You can ask me anything you want: nsoriano257@hotmail.com
 <!--
 **XSaintX/XSaintX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
