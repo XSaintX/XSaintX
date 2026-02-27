@@ -1,6 +1,6 @@
 # Hi universe 👋
 
-Feel free to contact me: <a href="https://www.linkedin.com/in/nick-soriano-4aa605225/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-Nick%20Soriano-blue?logo=Linkedin&logoColor=blue&labelColor=black" /></a>
+Feel free to contact me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nick%20Soriano-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/nick-soriano-4aa605225/)
 
 
 <!--
