@@ -1,8 +1,8 @@
 # Hi universe 👋
-I wasn't sure of writing my out of programming skills here 😅<br />
-But I can say I have good memories about football and maths. Many. <br />
-This is Github. It's good to speak in code. <br />
-You can find me: xsaintishere@hotmail.com
+
+You can contact me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-soriano-4aa605225/)
+
+
 <!--
 **XSaintX/XSaintX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
