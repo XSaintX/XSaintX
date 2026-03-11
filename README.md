@@ -1,5 +1,7 @@
 # Hi universe 👋
 
+Is it possible to talk out of programming skills here? 
+This is Github. It's good to speak in code.
 Feel free to contact me: geocities2006@hotmail.com
 
 
