@@ -1,7 +1,7 @@
 # Hi universe 👋
 
-Is it possible to talk my out of programming skills here? 
-This is Github. It's good to speak in code.
+Is it possible to talk my out of programming skills here? <br />
+This is Github. It's good to speak in code. <br />
 Feel free to contact me: geocities2006@hotmail.com
 
 
